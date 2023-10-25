@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders
+Screenshots/
+ds/
+
+#Files
+help.py
+
 # Distribution / packaging
 .Python
 build/
